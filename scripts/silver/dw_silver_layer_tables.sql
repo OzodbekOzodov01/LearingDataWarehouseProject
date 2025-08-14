@@ -34,7 +34,7 @@
 	 sls_order_dt DATE,
 	 sls_ship_dt DATE,
 	 sls_due_dt DATE,
-	 sls_sales_dt INT,
+	 sls_sales INT,
 	 sls_quantity INT,
 	 sls_price INT,
 	 dwh_create_date DATETIME2 DEFAULT GETDATE()
